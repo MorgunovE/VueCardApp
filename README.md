@@ -1,5 +1,9 @@
 # vue-cli
 
+## Project preview
+```
+https://morgunove.github.io/VueCardApp/dist/
+```
 ## Project setup
 ```
 npm install
